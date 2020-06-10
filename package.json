@@ -2,6 +2,10 @@
   "name": "dnd-chess",
   "version": "0.1.0",
   "private": true,
+  "main": "index.js",
+  "repository": "git@github.com:bitwhys/dnd-chess.git",
+  "author": "George Bockari <bitwhys@gmail.com>",
+  "license": "MIT",
   "dependencies": {
     "@emotion/core": "^10.0.28",
     "@emotion/styled": "^10.0.27",
